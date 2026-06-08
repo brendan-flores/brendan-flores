@@ -7,22 +7,64 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" />
+  <span style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br/>
+    Java
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/><br/>
+    C
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br/>
+    HTML
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br/>
+    CSS
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br/>
+    JavaScript
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br/>
+    React
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/><br/>
+    Node.js
+  </span>
 </p>
 
 ## 🗄️ Database
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="Supabase" width="45" />
+  <span style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br/>
+    MySQL
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/><br/>
+    MongoDB
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/><br/>
+    Firebase
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45"/><br/>
+    Supabase
+  </span>
 </p>
 
 ## 🌱 Current Focus
