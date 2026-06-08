@@ -1,8 +1,8 @@
 # Hi there, I'm Brendan 👋
 
-💻 Passionate about software development and building practical solutions.
+💻 I enjoy building software and turning ideas into real, working applications.
 
-🚀 I enjoy turning ideas into software, exploring new technologies, and continuously improving my skills as a developer.
+🚀 Always learning, improving, and exploring new technologies in development.
 
 ## 🛠️ Tech Stack
 
@@ -16,16 +16,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" />
 </p>
 
+## 🗄️ Database
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="Supabase" width="45" />
+</p>
+
 ## 🌱 Current Focus
 
 - Software Engineering
 - Modern Web Technologies
-- AI-Powered Applications
-- Continuous Learning
+- AI-powered applications
+- Continuous learning
 
 ## 🤝 Let's Connect
 
-Always open to learning, collaborating, and building meaningful projects.
+Always open to learning, collaborating, and building something useful.
 
 ---
 
