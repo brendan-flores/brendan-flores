@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Brendan 👋
 
-<!--
-**brendan-flores/brendan-flores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about software development and building practical solutions.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☕ Java
+- 🔹 C
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- ⚛️ React
+- 🟢 Node.js
+
+## 📚 Currently
+
+- Building web applications
+- Improving my software engineering skills
+- Exploring new technologies and best practices
+
+## 🤝 Connect
+
+Always open to learning, collaborating, and working on interesting projects.
+
+---
+⭐ Feel free to check out my repositories and follow my journey!
