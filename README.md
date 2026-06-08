@@ -4,23 +4,25 @@
 
 ## 🚀 Tech Stack
 
-- ☕ Java
-- 🔹 C
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
-- ⚛️ React
-- 🟢 Node.js
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" />
+</p>
 
 ## 📚 Currently
 
 - Building web applications
 - Improving my software engineering skills
-- Exploring new technologies and best practices
+- Exploring AI and modern technologies
 
 ## 🤝 Connect
 
 Always open to learning, collaborating, and working on interesting projects.
 
 ---
-⭐ Feel free to check out my repositories and follow my journey!
+⭐ Feel free to explore my repositories and follow my journey.
