@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 18px;">
+<div style="display: flex; justify-content: center; gap: 35px; flex-wrap: nowrap; overflow-x: auto;">
 
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br/>
@@ -51,7 +51,7 @@
 
 ## 🗄️ Database
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 18px;">
+<div style="display: flex; justify-content: center; gap: 35px; flex-wrap: nowrap; overflow-x: auto;">
 
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br/>
