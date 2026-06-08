@@ -13,65 +13,59 @@
 - 🔭 **What are you currently working on?**  
   I'm improving my full-stack development skills and building web applications using modern frameworks and backend systems.
 
-- 🛠️ **What tools do you use?**  
-  I use a mix of programming languages, frameworks, databases, and development tools to build applications.
-
 - 📬 **How to reach you?**  
-  You can connect with me through collaboration opportunities or development discussions.
+  📧 Email: **flores.brendanemmanuel@gmail.com**
 
 ---
 
 ## 🧠 Programming Languages
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br/> Java &nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/><br/> C
-</p>
+<table>
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br/>Java</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/><br/>C</td>
+  </tr>
+</table>
 
 ---
 
 ## 🌐 Web Development
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br/> HTML &nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br/> CSS &nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br/> JavaScript &nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br/> React &nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/><br/> Node.js
-</p>
+<table>
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br/>HTML</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br/>CSS</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br/>JavaScript</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br/>React</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/><br/>Node.js</td>
+  </tr>
+</table>
 
 ---
 
 ## 🗄️ Databases
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br/> MySQL &nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/><br/> MongoDB &nbsp;&nbsp;
-
-  <img src="https://cdn.simpleicons.org/firebase" width="45"/><br/> Firebase &nbsp;&nbsp;
-
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45"/><br/> Supabase
-</p>
+<table>
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br/>MySQL</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/><br/>MongoDB</td>
+    <td><img src="https://cdn.simpleicons.org/firebase" width="45"/><br/>Firebase</td>
+    <td><img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45"/><br/>Supabase</td>
+  </tr>
+</table>
 
 ---
 
 ## 🧰 Tools
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/figma" width="45"/><br/> Figma &nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/><br/> VS Code &nbsp;&nbsp;
-
-  <img src="https://cdn.simpleicons.org/cursor" width="45"/><br/> Cursor AI &nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/><br/> GitHub
-</p>
+<table>
+  <tr align="center">
+    <td><img src="https://cdn.simpleicons.org/figma" width="45"/><br/>Figma</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/><br/>VS Code</td>
+    <td><img src="https://cdn.simpleicons.org/cursor" width="45"/><br/>Cursor AI</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/><br/>GitHub</td>
+  </tr>
+</table>
 
 ---
 
@@ -86,6 +80,8 @@
 ---
 
 ## 🤝 Let's Connect
+
+📧 Email: **flores.brendanemmanuel@gmail.com**
 
 I'm always open to collaboration, learning opportunities, and building meaningful projects.
 
