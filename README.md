@@ -8,72 +8,72 @@
 
 ## 🛠️ Tech Stack
 
-<div style="display: flex; justify-content: center; gap: 35px; flex-wrap: nowrap; overflow-x: auto;">
+<table>
+  <tr align="center">
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br/>
+      Java
+    </td>
 
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br/>
-    Java
-  </div>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/><br/>
+      C
+    </td>
 
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/><br/>
-    C
-  </div>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br/>
+      HTML
+    </td>
 
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br/>
-    HTML
-  </div>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br/>
+      CSS
+    </td>
 
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br/>
-    CSS
-  </div>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br/>
+      JavaScript
+    </td>
 
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br/>
-    JavaScript
-  </div>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br/>
+      React
+    </td>
 
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br/>
-    React
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/><br/>
-    Node.js
-  </div>
-
-</div>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/><br/>
+      Node.js
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🗄️ Database
 
-<div style="display: flex; justify-content: center; gap: 35px; flex-wrap: nowrap; overflow-x: auto;">
+<table>
+  <tr align="center">
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br/>
+      MySQL
+    </td>
 
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br/>
-    MySQL
-  </div>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/><br/>
+      MongoDB
+    </td>
 
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/><br/>
-    MongoDB
-  </div>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/><br/>
+      Firebase
+    </td>
 
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/><br/>
-    Firebase
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45"/><br/>
-    Supabase
-  </div>
-
-</div>
+    <td>
+      <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45"/><br/>
+      Supabase
+    </td>
+  </tr>
+</table>
 
 ---
 
