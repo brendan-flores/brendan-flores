@@ -1,15 +1,20 @@
-# Hi there, I'm Brendan 👋
+# Hi there 👋
 
-💻 I enjoy building software and turning ideas into real, working applications.  
-🚀 Always learning, improving, and exploring modern technologies in development.
+## Brendan Emmanuel Flores
+
+💻 Software Developer passionate about building modern web applications and solving real-world problems.
+
+🚀 I enjoy working on both frontend and backend development, turning ideas into functional, user-friendly, and scalable solutions.
 
 ---
 
 ## 🙋 About Me
 
-I'm Brendan, a software developer who enjoys turning ideas into real, working applications.
-
-I'm currently focused on improving my full-stack development skills, building modern web applications, and learning new technologies that help create scalable and maintainable software.
+- 🎓 Computer Engineering Student
+- 💻 Interested in Frontend and Backend Development
+- ⚙️ Building web applications and continuously improving my development skills
+- 🤖 Exploring AI-powered applications and modern software tools
+- 📚 Always learning new technologies and software engineering best practices
 
 📧 **Email:** flores.brendanemmanuel@gmail.com
 
@@ -18,45 +23,58 @@ I'm currently focused on improving my full-stack development skills, building mo
 ## 🧠 Programming Languages
 
 <table>
-  <tr align="center">
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br/>
-      Java
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/><br/>
-      C
-    </td>
-  </tr>
+<tr align="center">
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br/>
+Java
+</td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/><br/>
+C
+</td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br/>
+JavaScript
+</td>
+</tr>
 </table>
 
 ---
 
-## 🌐 Web Development
+## 🌐 Frontend Development
 
 <table>
-  <tr align="center">
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br/>
-      HTML
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br/>
-      CSS
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br/>
-      JavaScript
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br/>
-      React
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/><br/>
-      Node.js
-    </td>
-  </tr>
+<tr align="center">
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br/>
+HTML5
+</td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br/>
+CSS3
+</td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br/>
+JavaScript
+</td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br/>
+React
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Backend Development
+
+<table>
+<tr align="center">
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br/>
+Node.js
+</td>
+</tr>
 </table>
 
 ---
@@ -64,24 +82,24 @@ I'm currently focused on improving my full-stack development skills, building mo
 ## 🗄️ Databases
 
 <table>
-  <tr align="center">
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br/>
-      MySQL
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/><br/>
-      MongoDB
-    </td>
-    <td>
-      <img src="https://cdn.simpleicons.org/firebase" width="45"/><br/>
-      Firebase
-    </td>
-    <td>
-      <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45"/><br/>
-      Supabase
-    </td>
-  </tr>
+<tr align="center">
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br/>
+MySQL
+</td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br/>
+MongoDB
+</td>
+<td>
+<img src="https://cdn.simpleicons.org/firebase" width="50"/><br/>
+Firebase
+</td>
+<td>
+<img src="https://cdn.simpleicons.org/supabase" width="50"/><br/>
+Supabase
+</td>
+</tr>
 </table>
 
 ---
@@ -89,35 +107,46 @@ I'm currently focused on improving my full-stack development skills, building mo
 ## 🧰 Tools
 
 <table>
-  <tr align="center">
-    <td>
-      <img src="https://cdn.simpleicons.org/figma" width="45"/><br/>
-      Figma
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/><br/>
-      VS Code
-    </td>
-    <td>
-      <img src="https://cdn.simpleicons.org/cursor" width="45"/><br/>
-      Cursor AI
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/><br/>
-      GitHub
-    </td>
-  </tr>
+<tr align="center">
+<td>
+<img src="https://cdn.simpleicons.org/figma" width="50"/><br/>
+Figma
+</td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br/>
+VS Code
+</td>
+<td>
+<img src="https://cdn.simpleicons.org/cursor" width="50"/><br/>
+Cursor AI
+</td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br/>
+GitHub
+</td>
+</tr>
 </table>
 
 ---
 
 ## 🌱 Current Focus
 
-- Full-stack web development
-- Backend architecture & APIs
-- Database design and optimization
-- AI-powered applications
-- Clean code & continuous learning
+- Frontend Development with React
+- Backend Development with Node.js
+- REST API Development
+- Database Design and Management
+- AI-Powered Applications
+- Writing Clean and Maintainable Code
+
+---
+
+## 📈 Goals
+
+- Strengthen my software development skills
+- Build impactful and user-focused applications
+- Gain real-world industry experience
+- Contribute to meaningful projects
+- Continuously learn modern technologies and best practices
 
 ---
 
@@ -125,6 +154,6 @@ I'm currently focused on improving my full-stack development skills, building mo
 
 📧 **flores.brendanemmanuel@gmail.com**
 
-I'm always open to collaboration, learning opportunities, and building meaningful projects.
+I'm always open to collaboration, learning opportunities, internships, and exciting software development projects.
 
-⭐ Thanks for stopping by!
+⭐ Thanks for visiting my profile!
